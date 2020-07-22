@@ -7,6 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos. 
 Testing 123
 Testing 456
+Testing 789 feature branch
 
 ### Copyright
 
